@@ -1,0 +1,40 @@
+.field {
+  height: 600px;
+}
+
+.side {
+  float: left;
+  width: 150px;
+  height: 610px;
+  position: relative;
+  background-color: yellowgreen;
+}
+
+.ban {
+  float: left;
+  width: 526px;
+  height: 610px;
+  background-color: orange;
+}
+
+.masu {
+  top: 10px;
+  right: 20px;
+  width:  50px;
+  height:  62px;
+  border: 2px solid black;
+  position: relative;
+}
+
+.koma {
+  width: 50px;
+  height: 62px;
+  position: relative;
+}
+
+.komadai {
+  width: 150px;
+  height: 400px;
+  background-color: orange;
+  position: absolute;
+}
